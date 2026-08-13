@@ -6,7 +6,7 @@ The project demonstrates network segmentation, Layer 3 routing, automatic client
 
 ## Network Topology
 
-![Network Topology](screenshots/topology.png)
+![Network Topology](topology.png.png)
 
 ## Technologies
 
@@ -36,7 +36,7 @@ User devices receive IP addresses automatically from the Layer 3 switch.
 
 The range 192.168.10.1–192.168.10.20 is reserved for static/infrastructure addresses.
 
-![DHCP Leases](screenshots/dhcp.png)
+![DHCP Leases](dhcp.png.png)
 
 ## Internal Services
 
@@ -54,7 +54,7 @@ Users can access the internal website using:
 
 http://intranet.company.local
 
-![Internal Intranet](screenshots/intranet.png)
+![Internal Intranet](intranet.png.png)
 
 ## Network Security
 
@@ -78,7 +78,7 @@ MANAGEMENT → BACKUP: ALLOW
 
 ACL match counters were used to verify that traffic was reaching the intended rules.
 
-![ACL Verification](screenshots/acl.png)
+![ACL Verification](acl.png.png)
 
 ## Testing
 
